@@ -163,6 +163,6 @@ btnDetener.addEventListener('click', () => {
 
 })
 
-// btnNuevo.addEventListener('click', () => {
+btnNuevo.addEventListener('click', () => {
     
-// })
+})
